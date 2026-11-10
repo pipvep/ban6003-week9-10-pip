@@ -1,0 +1,186 @@
+carrier,year,month,airline_name,flight_count,avg_departure_delay,avg_distance,cancellation_rate
+9E,2013,1,Endeavor Air Inc.,1573,16.88,476.35,0.0477
+AA,2013,1,American Airlines Inc.,2794,6.93,1350.46,0.0211
+AS,2013,1,Alaska Airlines Inc.,62,7.35,2402.0,0.0
+B6,2013,1,JetBlue Airways,4427,9.49,1061.63,0.002
+DL,2013,1,Delta Air Lines Inc.,3690,3.85,1220.39,0.0079
+EV,2013,1,ExpressJet Airlines Inc.,4171,24.23,522.38,0.0436
+F9,2013,1,Frontier Airlines Inc.,59,10.0,1620.0,0.0
+FL,2013,1,AirTran Airways Corporation,328,1.97,691.03,0.0122
+HA,2013,1,Hawaiian Airlines Inc.,31,54.39,4983.0,0.0
+MQ,2013,1,Envoy Air,2271,6.49,565.68,0.0286
+OO,2013,1,SkyWest Airlines Inc.,1,67.0,733.0,0.0
+UA,2013,1,United Air Lines Inc.,4637,8.33,1461.55,0.0069
+US,2013,1,US Airways Inc.,1602,1.82,536.09,0.0293
+VX,2013,1,Virgin America,316,1.06,2495.06,0.0032
+WN,2013,1,Southwest Airlines Co.,996,9.14,942.17,0.011
+YV,2013,1,Mesa Airlines Inc.,46,15.85,229.0,0.1522
+9E,2013,2,Endeavor Air Inc.,1459,16.49,467.89,0.0727
+AA,2013,2,American Airlines Inc.,2517,8.28,1350.27,0.0445
+AS,2013,2,Alaska Airlines Inc.,56,0.72,2402.0,0.0357
+B6,2013,2,JetBlue Airways,4103,13.77,1056.89,0.0373
+DL,2013,2,Delta Air Lines Inc.,3444,5.54,1227.0,0.0383
+EV,2013,2,ExpressJet Airlines Inc.,3827,21.52,525.07,0.0703
+F9,2013,2,Frontier Airlines Inc.,49,29.77,1620.0,0.0204
+FL,2013,2,AirTran Airways Corporation,296,5.18,691.0,0.0473
+HA,2013,2,Hawaiian Airlines Inc.,28,17.36,4983.0,0.0
+MQ,2013,2,Envoy Air,2044,8.09,565.05,0.0685
+UA,2013,2,United Air Lines Inc.,4346,7.71,1435.73,0.0414
+US,2013,2,US Airways Inc.,1552,0.98,527.25,0.058
+VX,2013,2,Virgin America,271,6.61,2492.71,0.0369
+WN,2013,2,Southwest Airlines Co.,911,11.75,949.73,0.0549
+YV,2013,2,Mesa Airlines Inc.,48,10.67,229.0,0.0417
+9E,2013,3,Endeavor Air Inc.,1627,13.41,476.49,0.0695
+AA,2013,3,American Airlines Inc.,2787,8.7,1348.33,0.0147
+AS,2013,3,Alaska Airlines Inc.,62,8.42,2402.0,0.0
+B6,2013,3,JetBlue Airways,4772,14.24,1063.13,0.004
+DL,2013,3,Delta Air Lines Inc.,4189,9.93,1248.55,0.0138
+EV,2013,3,ExpressJet Airlines Inc.,4726,26.17,537.59,0.0717
+F9,2013,3,Frontier Airlines Inc.,57,16.75,1620.0,0.0
+FL,2013,3,AirTran Airways Corporation,316,17.25,672.45,0.0348
+HA,2013,3,Hawaiian Airlines Inc.,31,1.16,4983.0,0.0
+MQ,2013,3,Envoy Air,2256,7.19,564.54,0.0527
+UA,2013,3,United Air Lines Inc.,4971,11.69,1455.59,0.0091
+US,2013,3,US Airways Inc.,1721,2.72,551.72,0.0424
+VX,2013,3,Virgin America,303,9.68,2491.94,0.0
+WN,2013,3,Southwest Airlines Co.,998,15.25,978.22,0.0431
+YV,2013,3,Mesa Airlines Inc.,18,31.89,229.0,0.0
+9E,2013,4,Endeavor Air Inc.,1511,13.57,492.47,0.0688
+AA,2013,4,American Airlines Inc.,2722,11.7,1338.65,0.0217
+AS,2013,4,Alaska Airlines Inc.,60,11.32,2402.0,0.0
+B6,2013,4,JetBlue Airways,4517,15.17,1078.84,0.0108
+DL,2013,4,Delta Air Lines Inc.,4092,8.17,1246.6,0.0007
+EV,2013,4,ExpressJet Airlines Inc.,4561,22.77,560.07,0.0474
+F9,2013,4,Frontier Airlines Inc.,57,24.63,1620.0,0.0
+FL,2013,4,AirTran Airways Corporation,311,13.12,665.76,0.0193
+HA,2013,4,Hawaiian Airlines Inc.,30,-2.1,4983.0,0.0
+MQ,2013,4,Envoy Air,2211,13.74,566.91,0.0502
+UA,2013,4,United Air Lines Inc.,5047,13.65,1502.03,0.0109
+US,2013,4,US Airways Inc.,1727,4.06,540.55,0.0284
+VX,2013,4,Virgin America,466,14.64,2498.82,0.0
+WN,2013,4,Southwest Airlines Co.,980,18.22,989.98,0.0143
+YV,2013,4,Mesa Airlines Inc.,38,27.11,403.08,0.0526
+9E,2013,5,Endeavor Air Inc.,1462,22.67,505.49,0.0506
+AA,2013,5,American Airlines Inc.,2803,9.66,1338.46,0.0118
+AS,2013,5,Alaska Airlines Inc.,62,6.77,2402.0,0.0
+B6,2013,5,JetBlue Airways,4576,9.78,1050.27,0.0072
+DL,2013,5,Delta Air Lines Inc.,4082,9.74,1248.09,0.0015
+EV,2013,5,ExpressJet Airlines Inc.,4817,20.24,565.68,0.048
+F9,2013,5,Frontier Airlines Inc.,58,35.95,1620.0,0.0
+FL,2013,5,AirTran Airways Corporation,325,19.18,666.54,0.0092
+HA,2013,5,Hawaiian Airlines Inc.,31,-1.45,4983.0,0.0
+MQ,2013,5,Envoy Air,2284,13.93,567.09,0.0315
+UA,2013,5,United Air Lines Inc.,4960,12.26,1555.32,0.0101
+US,2013,5,US Airways Inc.,1785,3.18,548.16,0.0213
+VX,2013,5,Virgin America,496,17.83,2501.5,0.0
+WN,2013,5,Southwest Airlines Co.,1006,16.94,989.28,0.0179
+YV,2013,5,Mesa Airlines Inc.,49,15.41,402.57,0.102
+9E,2013,6,Endeavor Air Inc.,1437,28.95,528.43,0.112
+AA,2013,6,American Airlines Inc.,2757,14.63,1330.46,0.0207
+AS,2013,6,Alaska Airlines Inc.,60,13.08,2402.0,0.0
+B6,2013,6,JetBlue Airways,4622,20.39,1066.49,0.0108
+DL,2013,6,Delta Air Lines Inc.,4126,18.74,1237.28,0.0087
+EV,2013,6,ExpressJet Airlines Inc.,4456,25.5,568.33,0.0785
+F9,2013,6,Frontier Airlines Inc.,55,29.44,1620.0,0.0
+FL,2013,6,AirTran Airways Corporation,252,38.81,646.13,0.0357
+HA,2013,6,Hawaiian Airlines Inc.,30,1.47,4983.0,0.0
+MQ,2013,6,Envoy Air,2178,20.84,566.14,0.0826
+OO,2013,6,SkyWest Airlines Inc.,2,61.0,488.0,0.0
+UA,2013,6,United Air Lines Inc.,4975,20.27,1574.6,0.0131
+US,2013,6,US Airways Inc.,1736,10.4,568.16,0.0467
+VX,2013,6,Virgin America,480,28.41,2501.5,0.0
+WN,2013,6,Southwest Airlines Co.,1028,30.51,1014.42,0.0097
+YV,2013,6,Mesa Airlines Inc.,49,42.79,389.71,0.2041
+9E,2013,7,Endeavor Air Inc.,1494,31.4,539.44,0.087
+AA,2013,7,American Airlines Inc.,2882,12.11,1324.42,0.0295
+AS,2013,7,Alaska Airlines Inc.,62,2.42,2402.0,0.0
+B6,2013,7,JetBlue Airways,4984,24.9,1068.17,0.012
+DL,2013,7,Delta Air Lines Inc.,4251,20.58,1238.19,0.0118
+EV,2013,7,ExpressJet Airlines Inc.,4641,26.5,584.85,0.0646
+F9,2013,7,Frontier Airlines Inc.,58,31.81,1620.0,0.0
+FL,2013,7,AirTran Airways Corporation,263,41.16,644.03,0.0418
+HA,2013,7,Hawaiian Airlines Inc.,31,-1.71,4983.0,0.0
+MQ,2013,7,Envoy Air,2261,20.75,568.24,0.0571
+UA,2013,7,United Air Lines Inc.,5066,20.11,1580.91,0.013
+US,2013,7,US Airways Inc.,1786,9.44,567.39,0.0465
+VX,2013,7,Virgin America,489,35.26,2501.19,0.0061
+WN,2013,7,Southwest Airlines Co.,1076,24.63,1015.16,0.0102
+YV,2013,7,Mesa Airlines Inc.,81,22.43,439.0,0.1481
+9E,2013,8,Endeavor Air Inc.,1456,17.3,544.88,0.0536
+AA,2013,8,American Airlines Inc.,2856,7.17,1326.28,0.0091
+AS,2013,8,Alaska Airlines Inc.,62,2.87,2402.0,0.0
+B6,2013,8,JetBlue Airways,4952,15.68,1065.88,0.001
+DL,2013,8,Delta Air Lines Inc.,4318,9.85,1233.55,0.0012
+EV,2013,8,ExpressJet Airlines Inc.,4563,16.26,581.02,0.0458
+F9,2013,8,Frontier Airlines Inc.,55,22.22,1620.0,0.0
+FL,2013,8,AirTran Airways Corporation,263,23.41,645.42,0.0266
+HA,2013,8,Hawaiian Airlines Inc.,31,1.68,4983.0,0.0
+MQ,2013,8,Envoy Air,2263,10.05,569.29,0.042
+OO,2013,8,SkyWest Airlines Inc.,4,64.0,419.0,0.0
+UA,2013,8,United Air Lines Inc.,5124,12.42,1592.95,0.0035
+US,2013,8,US Airways Inc.,1779,4.96,551.28,0.0214
+VX,2013,8,Virgin America,489,6.61,2501.14,0.0
+WN,2013,8,Southwest Airlines Co.,1047,21.79,1018.0,0.0
+YV,2013,8,Mesa Airlines Inc.,65,19.07,432.54,0.0769
+9E,2013,9,Endeavor Air Inc.,1540,7.75,579.62,0.0409
+AA,2013,9,American Airlines Inc.,2614,5.69,1338.32,0.0115
+AS,2013,9,Alaska Airlines Inc.,60,-4.52,2402.0,0.0
+B6,2013,9,JetBlue Airways,4291,6.63,1065.24,0.0028
+DL,2013,9,Delta Air Lines Inc.,3883,5.53,1231.15,0.0023
+EV,2013,9,ExpressJet Airlines Inc.,4725,8.24,576.81,0.0324
+F9,2013,9,Frontier Airlines Inc.,58,8.26,1620.0,0.0172
+FL,2013,9,AirTran Airways Corporation,255,16.95,647.49,0.0039
+HA,2013,9,Hawaiian Airlines Inc.,25,-5.44,4983.0,0.0
+MQ,2013,9,Envoy Air,2206,5.35,577.49,0.0431
+OO,2013,9,SkyWest Airlines Inc.,20,-4.94,419.0,0.15
+UA,2013,9,United Air Lines Inc.,4694,6.89,1568.11,0.0087
+US,2013,9,US Airways Inc.,1698,1.96,525.02,0.0241
+VX,2013,9,Virgin America,453,6.99,2500.77,0.0
+WN,2013,9,Southwest Airlines Co.,1010,14.17,1018.18,0.003
+YV,2013,9,Mesa Airlines Inc.,42,8.88,476.5,0.0
+9E,2013,10,Endeavor Air Inc.,1673,9.33,596.21,0.0185
+AA,2013,10,American Airlines Inc.,2715,3.0,1336.64,0.0033
+AS,2013,10,Alaska Airlines Inc.,62,0.68,2402.0,0.0
+B6,2013,10,JetBlue Airways,4361,2.96,1071.66,0.0005
+DL,2013,10,Delta Air Lines Inc.,4093,3.42,1226.9,0.0005
+EV,2013,10,ExpressJet Airlines Inc.,4908,13.42,577.93,0.0179
+F9,2013,10,Frontier Airlines Inc.,57,9.7,1620.0,0.0
+FL,2013,10,AirTran Airways Corporation,236,13.68,672.3,0.0085
+HA,2013,10,Hawaiian Airlines Inc.,21,-5.1,4983.0,0.0
+MQ,2013,10,Envoy Air,2228,4.48,574.01,0.0189
+UA,2013,10,United Air Lines Inc.,5060,6.65,1528.59,0.004
+US,2013,10,US Airways Inc.,1846,0.14,554.35,0.0168
+VX,2013,10,Virgin America,472,4.01,2500.74,0.0021
+WN,2013,10,Southwest Airlines Co.,1091,12.46,1013.8,0.0018
+YV,2013,10,Mesa Airlines Inc.,66,20.0,396.05,0.0909
+9E,2013,11,Endeavor Air Inc.,1595,7.56,586.27,0.0125
+AA,2013,11,American Airlines Inc.,2577,3.1,1345.73,0.0074
+AS,2013,11,Alaska Airlines Inc.,52,3.08,2402.0,0.0
+B6,2013,11,JetBlue Airways,4289,3.52,1080.44,0.0007
+DL,2013,11,Delta Air Lines Inc.,3849,2.85,1232.88,0.0005
+EV,2013,11,ExpressJet Airlines Inc.,4471,9.83,579.23,0.0183
+F9,2013,11,Frontier Airlines Inc.,61,13.53,1620.0,0.0164
+FL,2013,11,AirTran Airways Corporation,202,16.87,662.62,0.0
+HA,2013,11,Hawaiian Airlines Inc.,25,-5.44,4983.0,0.0
+MQ,2013,11,Envoy Air,2056,3.28,571.92,0.0219
+OO,2013,11,SkyWest Airlines Inc.,5,0.8,852.2,0.0
+UA,2013,11,United Air Lines Inc.,4854,6.37,1534.38,0.0033
+US,2013,11,US Airways Inc.,1699,0.58,571.84,0.0182
+VX,2013,11,Virgin America,451,7.8,2501.1,0.0177
+WN,2013,11,Southwest Airlines Co.,1033,11.01,1007.64,0.0048
+YV,2013,11,Mesa Airlines Inc.,49,10.52,346.71,0.0204
+9E,2013,12,Endeavor Air Inc.,1633,19.78,559.7,0.0545
+AA,2013,12,American Airlines Inc.,2705,11.71,1357.2,0.0392
+AS,2013,12,Alaska Airlines Inc.,54,18.02,2402.0,0.0
+B6,2013,12,JetBlue Airways,4741,17.0,1093.81,0.015
+DL,2013,12,Delta Air Lines Inc.,4093,10.79,1248.41,0.0042
+EV,2013,12,ExpressJet Airlines Inc.,4307,27.89,566.76,0.0924
+F9,2013,12,Frontier Airlines Inc.,61,13.15,1620.0,0.0
+FL,2013,12,AirTran Airways Corporation,213,26.11,659.18,0.0235
+HA,2013,12,Hawaiian Airlines Inc.,28,-3.14,4983.0,0.0
+MQ,2013,12,Envoy Air,2139,12.73,578.43,0.0659
+UA,2013,12,United Air Lines Inc.,4931,17.72,1543.25,0.0199
+US,2013,12,US Airways Inc.,1605,4.94,598.36,0.038
+VX,2013,12,Virgin America,476,6.1,2500.13,0.0168
+WN,2013,12,Southwest Airlines Co.,1099,24.89,1007.87,0.0227
+YV,2013,12,Mesa Airlines Inc.,50,13.11,375.86,0.12
